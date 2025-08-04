@@ -35,7 +35,7 @@ A tool that **automates messy CSV cleaning** and data quality checks in seconds.
 ### AgriCast
 A **weather intelligence dashboard** for agriculture with automated data pipelines.  
 
-### [Beatify] (https://github.com/koltetushar/beatify) 
+### [Beatify](https://github.com/koltetushar/beatify) 
 A platform that uses **ML and audio signal processing** to classify music genres and recommend songs.  
 
 ---
